@@ -30,5 +30,3 @@ Feel free to fork the repository and make any improvements or enhancements. If y
 For any questions or inquiries, you can reach me at [bsrinivasan2004@gmail.com](mailto:bsrinivasan2004@gmail.com).
 
 ---
-
-Feel free to modify any part of this description to better fit your project’s specifics!
